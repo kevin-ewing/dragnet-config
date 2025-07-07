@@ -1,5 +1,5 @@
 {
-  "ACTIVE": true,
+  "ACTIVE": false,
   "url": "https://api-v6.streeteasy.com/",
   "headers": {
     "accept": "application/json",
