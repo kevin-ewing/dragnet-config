@@ -1,0 +1,31 @@
+{
+  "ACTIVE": true,
+  "url": "https://api-v6.streeteasy.com/",
+  "headers": {
+    "accept": "application/json",
+    "accept-encoding": "gzip, deflate, br, zstd",
+    "accept-language": "en-US,en;q=0.9",
+    "apollographql-client-name": "srp-frontend-service",
+    "apollographql-client-version": "version c782ff4b61fecbca6efce495cc936e8b5a549a62",
+    "app-version": "1.0.0",
+    "authorization": "b7REDhFVuP3bbGfrptv84w",
+    "content-type": "application/json"
+  },
+  "variables": {
+    "filters": {
+      "rentalStatus": "ACTIVE",
+      "areas": [135],
+      "price": { "lowerBound": null, "upperBound": 4250 },
+      "bedrooms": { "lowerBound": 1, "upperBound": 1 },
+      "available": { "startDate": "2025-08-01", "endDate": null }
+    },
+    "page": 1,
+    "perPage": 500,
+    "sorting": {
+      "attribute": "INTERESTING_CHANGE_AT",
+      "direction": "DESCENDING"
+    },
+    "userSearchToken": "a25ea29c-1206-47c7-81e7-d8e5006ebe4b",
+    "adStrategy": "NONE"
+  }
+}
