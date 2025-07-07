@@ -27,5 +27,9 @@
     },
     "userSearchToken": "a25ea29c-1206-47c7-81e7-d8e5006ebe4b",
     "adStrategy": "NONE"
-  }
+  },
+  "recipients": [
+    "kevin.ewing@genesys.com",
+    "kce4868@stern.nyu.edu"
+  ]
 }
