@@ -14,10 +14,10 @@
   "variables": {
     "filters": {
       "rentalStatus": "ACTIVE",
-      "areas": [135],
-      "price": { "lowerBound": null, "upperBound": 4250 },
-      "bedrooms": { "lowerBound": 1, "upperBound": 1 },
-      "available": { "startDate": "2025-08-01", "endDate": null }
+      "areas": [102, 123],
+      "price": { "lowerBound": null, "upperBound": 4800 },
+      "bedrooms": { "lowerBound": 2, "upperBound": 2 },
+      "available": { "startDate": "2025-08-10", "endDate": null }
     },
     "page": 1,
     "perPage": 500,
@@ -30,5 +30,6 @@
   },
   "recipients": [
     "kce4868@stern.nyu.edu"
+    // "jamesjjewing@gmail.com",
   ]
 }
