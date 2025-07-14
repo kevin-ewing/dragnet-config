@@ -15,7 +15,7 @@
     "filters": {
       "rentalStatus": "ACTIVE",
       "areas": [102, 123],
-      "price": { "lowerBound": null, "upperBound": 4800 },
+      "price": { "lowerBound": null, "upperBound": 5000 },
       "bedrooms": { "lowerBound": 2, "upperBound": 2 },
       "available": { "startDate": "2025-08-10", "endDate": null }
     },
